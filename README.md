@@ -1,5 +1,3 @@
-# SQL-Data-Cleaning
-
 # Laptop Dataset Cleaning - SQL Project
 
 ![SQL Data Cleaning](https://img.shields.io/badge/SQL-Data%20Cleaning-brightgreen) 
